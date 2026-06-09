@@ -37,7 +37,7 @@ section.hero {
   & h1 span {
     display: block;
 
-    animation: slideUp 7s infinite ease;
+    animation: slideUp 7s 2s infinite ease;
 
   }
 
@@ -89,7 +89,7 @@ section.hero {
     width: 100%;
     max-width: 30.5rem;
     height: 30.5rem;
-    border: 2px solid red;
+    
 
     & .content {
       width: 100%;
@@ -115,7 +115,7 @@ section.hero {
       z-index: 1;
       
       transform: translateX(200%);
-      animation: slideIn 3s forwards;
+      animation: slideIn 3s ease forwards;
 
     }
 
@@ -124,23 +124,38 @@ section.hero {
       top: 30%;
       z-index: 0;
 
-      opacity: 0;
+      /* opacity: 0; */
       transform: translateX(400%);
+      animation: slideIn 2s 800ms ease forwards, appear 100ms 800ms forwards;
     }
 
     & img[src*="stars-2"] {
       max-width: 2.5rem;
       right: 0;
       bottom: 35%;
+
+      transform: translateX(400%);
+      animation: slideIn 2.2s 800ms ease forwards;
     }
   }
 }
 
+
 @keyframes slideIn {
+  50% {
+    transform: translateX(-20px)
+  }
   100% {
     transform: translateX(0);
   }
 }
+
+@keyframes appear {
+  to {
+    opacity: 1;
+  }
+}
+
 
 @keyframes slideUp {
 
