@@ -28,7 +28,9 @@
 
 }
 
-
+html {
+  zoom: .5rem;
+}
 html, button {
   font: 500 1rem/1.5 var(--ff-base);
 
