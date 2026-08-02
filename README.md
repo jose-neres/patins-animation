@@ -25,35 +25,6 @@ A interface apresenta um design moderno e demonstra como pequenos detalhes visua
 * Flexbox
 * Google Fonts
 
-## 📂 Estrutura do projeto
-
-```text
-patins-animation/
-│
-├── assets/
-├── styles/
-├── index.html
-└── README.md
-```
-
-## 🚀 Como executar o projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/jose-neres/patins-animation.git
-```
-
-2. Acesse a pasta do projeto:
-
-```bash
-cd patins-animation
-```
-
-3. Abra o arquivo `index.html` em qualquer navegador.
-
-Não é necessário instalar dependências ou executar servidores.
-
 ## 📱 Responsividade
 
 A aplicação foi desenvolvida para proporcionar uma boa experiência em diferentes resoluções de tela, adaptando os elementos da interface para dispositivos móveis, tablets e desktops.
