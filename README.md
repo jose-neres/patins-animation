@@ -4,7 +4,7 @@ Uma landing page moderna e interativa desenvolvida com **HTML5** e **CSS3**, exp
 
 ## 📖 Sobre o projeto
 
-O **Patins Animation** é um projeto Front-end criado com o objetivo de praticar animações em CSS, técnicas de responsividade e boas práticas de estruturação utilizando HTML semântico.
+O **Patins Animation** é um projeto Front-end criado com o objetivo de praticar animações em CSS, técnicas e boas práticas de estruturação utilizando HTML semântico.
 
 A interface apresenta um design moderno e demonstra como pequenos detalhes visuais podem melhorar significativamente a experiência do usuário. O projeto foi desenvolvido como parte dos desafios práticos da formação Full-Stack da Rocketseat.
 
@@ -12,7 +12,6 @@ A interface apresenta um design moderno e demonstra como pequenos detalhes visua
 
 * 🎨 Interface moderna e elegante;
 * ✨ Animações e transições suaves;
-* 📱 Layout responsivo para diferentes dispositivos;
 * 🧩 Estrutura HTML semântica;
 * ⚡ Efeitos visuais utilizando apenas CSS.
 
@@ -25,10 +24,6 @@ A interface apresenta um design moderno e demonstra como pequenos detalhes visua
 * Flexbox
 * Google Fonts
 
-## 📱 Responsividade
-
-A aplicação foi desenvolvida para proporcionar uma boa experiência em diferentes resoluções de tela, adaptando os elementos da interface para dispositivos móveis, tablets e desktops.
-
 ## 🎯 Objetivos de aprendizado
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
@@ -38,7 +33,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 * Animações utilizando CSS;
 * Transições e efeitos visuais;
 * Layout com Flexbox;
-* Responsividade;
 * Boas práticas de desenvolvimento Front-end.
 
 ## 📸 Preview
@@ -58,7 +52,7 @@ Este projeto permitiu aprofundar conhecimentos sobre animações em CSS, proporc
 * `translate`
 * `rotate`
 
-Além disso, reforçou a importância de criar interfaces leves, responsivas e com foco na experiência do usuário.
+Além disso, reforçou a importância de criar interfaces leves e com foco na experiência do usuário.
 
 ## 👨‍💻 Autor
 
